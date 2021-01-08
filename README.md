@@ -1,7 +1,7 @@
 # ロボットシステム学　課題2
 ___
 ## 概要
-このリポジトリは上田隆一教授の[第10回講義]()で作成したコードを改変したものです。<br>
+このリポジトリは上田隆一先生の[第10回講義]()で作成したコードを改変したものです。<br>
 ランダムに1～200の数字を配信するパブリッシャを持つ[rand.py](https://github.com/kiyoshirou-kawanabe/mypkg/blob/main/scripts/rand.py)。
 それを購読し素数か判別するサブスクライバを持つ[n_prime.py](https://github.com/kiyoshirou-kawanabe/mypkg/blob/main/scripts/n_prime.py)のふたつのコードを作成しました。<br>
 ___
