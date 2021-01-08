@@ -2,9 +2,8 @@
 ___
 ## 概要
 このリポジトリは上田隆一教授の[第10回講義]()で作成したコードを改変したものです。<br>
-1から順に毎秒10個の数字を配信するパブリッシャを持つ[cont.py](https://github.com/kiyoshirou-kawanabe/mypkg/blob/main/scripts/count.py)。
-それを購読するサブスクライバを持つ[prime_num.py](https://github.com/kiyoshirou-kawanabe/mypkg/blob/main/scripts/n_prime.py)のふたつのコードを作成しました。<br>
-[prime_num.py](https://github.com/kiyoshirou-kawanabe/mypkg/blob/main/scripts/n_prime.py)は購読した数字の中から素数だけを出力するコードです。<br>
+ランダムに1～200の数字を配信するパブリッシャを持つ[rand.py](https://github.com/kiyoshirou-kawanabe/mypkg/blob/main/scripts/rand.py)。
+それを購読し素数か判別するサブスクライバを持つ[n_prime.py](https://github.com/kiyoshirou-kawanabe/mypkg/blob/main/scripts/n_prime.py)のふたつのコードを作成しました。<br>
 ___
 ## 動作環境
 - Ubuntu
