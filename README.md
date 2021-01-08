@@ -35,16 +35,8 @@ $ source ~/.bashrc
 ```
 ___
 ## 使用方法
-`$ roscore &`を実行しroscoreを起動してください。<br>
-次に新しくターミナルを開きサブスクライバを起動します。以下のコマンドを実行してください。<br>
-```
-$ rosrun robosys prime_num.py
-```
-次に先ほどroscoreを立ち上げたターミナルでパブリッシャを起動します。以下のコマンドを実行してください。
-```
-$ rosrun robosys count.py
-```
-count.pyをあとに実行することで素数の最小'2'から出力されます。
+以下のコマンドを実行してください。<br>
+```$ roslaunch mypkg mypkg.launch```
 ___
 ## ライセンス
 - ROS -[BSD 3-Clause License](https://github.com/kiyoshirou-kawanabe/mypkg/blob/main/LICENSE)
