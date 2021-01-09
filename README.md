@@ -12,7 +12,7 @@ ___
   - Noetic
 ___
 ## デモ動画
-デモ動画は[こちら](https://youtu.be/FeTo19cilD0)から
+デモ動画は[こちら](https://youtu.be/FeTo19cilD0)です
 ___
 ## インストール方法
 ### ROS
