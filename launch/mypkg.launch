@@ -1,4 +1,4 @@
 <launch>
   <node pkg="mypkg" name="rand" type="rand.py" required="true" />
-  <node pkg="mypkg" name="prime" type="n_prime.py" output="screen" required="true" />
+  <node pkg="mypkg" name="led" type="prime_check.py" output="screen" required="true" />
 </launch>
