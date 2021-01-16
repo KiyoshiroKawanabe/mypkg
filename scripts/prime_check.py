@@ -4,7 +4,7 @@ import RPi.GPIO as GPIO
 import time, sys
 from std_msgs.msg import Int32
 
-red_led = 17
+red_led = 2
 green_led = 5
 
 GPIO.setmode(GPIO.BCM)
