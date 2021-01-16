@@ -16,7 +16,7 @@ ___
 ## 回路
 回路は画像の通りです。
 赤LEDはGPIO２、緑LEDはGPIO５に接続されています。Groundはどこでも構いません。<br>
-<img src="https://user-images.githubusercontent.com/53420739/104808557-79c8b700-582a-11eb-9e0d-db522a22cd38.png"width="320px">
+<img src="https://user-images.githubusercontent.com/53420739/104808557-79c8b700-582a-11eb-9e0d-db522a22cd38.png" width="320px">
 
 ___
 ## デモ動画
