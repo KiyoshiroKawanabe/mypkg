@@ -9,6 +9,6 @@ pub = rospy.Publisher('rand', Int32, queue_size = 1)
 rate = rospy.Rate(1)
 
 while not rospy.is_shutdown():
-  n = random.randint(0, 200)
-  pub.publish(n)
-  rate.sleep()
+    n = random.randint(0, 200)
+    pub.publish(n)
+    rate.sleep()
